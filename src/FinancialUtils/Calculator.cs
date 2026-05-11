@@ -10,6 +10,8 @@ public static class Calculator
     /// </summary>
     public static decimal Add(decimal a, decimal b) => a + b;
 
+    public static decimal Add(int a, int b) => a + b;
+
     /// <summary>
     /// Resta b de a.
     /// </summary>
