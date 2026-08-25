@@ -1,4 +1,4 @@
-# ⚙️ Workshop: GitHub Intermedio
+# ⚙️ Workshop: GitHub Intermedio - Modificado
 
 ## Pipelines, Políticas y Productividad con .NET 9
 
